@@ -9,10 +9,10 @@ Python
 
 IRC 
 ---
-If you are in irssi, type `/help` 
-If you are having problems involving your nickname, type `/msg Nickserv help`
+- If you are in irssi, type `/help` 
+- If you are having problems involving your nickname, type `/msg Nickserv help`
 This will open a private message with a bot called Nickserv which might be able to help 
-If you are having problems involving channels, type `/msg Chanserv help` 
+- If you are having problems involving channels, type `/msg Chanserv help` 
 Chanserv is another bot, which can help you with channels. 
 
 
