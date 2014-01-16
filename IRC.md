@@ -9,15 +9,11 @@ This section is a reminder of what steps to take to open IRC again. Everything i
 
 2. type `ssh username@domainname`
 
-It will prompt you for you password.  
-
-3. Enter your password. 
+3. It will prompt you for you password. Enter your password. 
 
 4. After it outputs some text, hit enter. 
 
-It will give you a list of options. 
-
-5. Type the number corresponding to `Exit to Shell Prompt`
+5. It will give you a list of options. Type the number corresponding to `Exit to Shell Prompt`
 
 6. Type `screen -x` 
 
